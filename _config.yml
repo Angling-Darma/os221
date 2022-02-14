@@ -3,7 +3,7 @@ copyright:   "2022"
 author:      "Abraham"
 title:       "OS221: Operating Systems 2022-1"
 githublink:  "https://github.com/cbkadal/os221/"
-myloglink:   "/TXT/mylog.txt"
+myloglink:   "mylog.txt"
 encoding:    UTF-8
 markdown:    kramdown
 input:       GFM
