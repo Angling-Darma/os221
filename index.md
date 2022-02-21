@@ -5,6 +5,7 @@
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [GITHUB]({{ site.githublink }})
+[LINKS]({{ site.mylinks }})
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
