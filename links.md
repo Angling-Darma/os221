@@ -5,9 +5,8 @@ permalink: LINKS/
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB]({{ site.githublink }}) ---
+[LINKS]({{ site.baseurl }}/LINKS/)
 <br>
 <hr>
 
