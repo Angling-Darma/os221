@@ -12,20 +12,14 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [Bash Intro](https://cs.lmu.edu/~ray/notes/bash/)<br>
+Introduction to Bash. Detailed and good enough for cheat sheet.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Docker for Dummies](https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/#:~:text=In%20simple%20terms%2C%20Docker%20is,it%20is%20installed%20and%20running.&text=Docker%20is%20developed%20using%20the%20GO%20programming%20language.)<br>
+Intro for those who want to get into containarized app using docker.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [Kubernetes basics from k8s itself !!!](https://kubernetes.io/docs/tutorials/kubernetes-basics/)<br>
+Just like the title said.
 
 <br>
 <hr>
