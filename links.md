@@ -21,6 +21,15 @@ Intro for those who want to get into containarized app using docker.
 3. [Kubernetes basics from k8s itself !!!](https://kubernetes.io/docs/tutorials/kubernetes-basics/)<br>
 Just like the title said.
 
+4. [LFS Intro](https://www.linuxfromscratch.org/lfs/view/stable/chapter03/introduction.html)<br>
+Introduction to LFS. Good for Those who wants to study deeper about Linux.
+
+5. [Basic Linux Commands](https://www.hostinger.com/tutorials/linux-commands)<br>
+Good numbers of usual commands that used on Linux.
+
+6. [Git Intro](https://www.w3schools.com/git/git_intro.asp?remote=github)<br>
+Git Intro for Collaborative working with git.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
